@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Consultant / Software Engineer
 ---------------------------------
 
-Frontend Developer proficient in JavaScript,TypeScript, React, Next.js, Angular and Vue. With a background in backend technologies like Node.js and Express, I bring valuable expertise to full-stack development projects.
+Frontend Developer proficient in JavaScript,TypeScript, React, Next.js, Angular and Vue. With a background in backend technologies like Node.js and Express.
 
 * 🌍  I'm based in Belgrade
 * ✉️  You can contact me at [ivanmilicevicmeda@gmail.com](mailto:ivanmilicevicmeda@gmail.com)
