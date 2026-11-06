@@ -22,7 +22,7 @@ Previously: **TradeCore** (EU), **PRODYNA** (EU), and **Self Employed** (EU–US
 | **[EdPilotHub](https://edpilothub.com/)** | An education-focused CMS that brings school websites, events, applications, accessibility, and AI engagement tools into one platform. |
 | **Bebio** | An iOS and Android parenting app with offline-first sync and an AI assistant. |
 | **[Tandem](https://github.com/ivanmeda993/tandem)** | A developer tool connecting Claude Code and Codex for collaboration, code reviews, and parallel work. |
-| **[Inertia](https://app.try-inertia-dev.com/)** | A US-based personal finance product for spending insights and financial goals, across web and mobile. |
+| **[Inertia](https://www.tryinertia.co/)** | A US-based personal finance product for spending insights and financial goals, across web and mobile. |
 | **[IPS Uplatnica](https://www.ipsuplatnica.com/)** | A privacy-conscious PWA for saving payment templates and generating NBS IPS QR codes, with offline support. |
 
 **Further client work**
