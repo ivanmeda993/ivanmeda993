@@ -27,7 +27,9 @@ Previously: **TradeCore** (EU), **PRODYNA** (EU), and **Self Employed** (EU–US
 
 **Further client work**
 
-[Ukandu](https://pilothub.us/projects/ukandu) · [Miami Arts Charter School](https://miamiartscharter.net/) · [Halliday Financial](https://pilothub.us/projects/halliday-financial) · Olsen Ziegler Realty · DentalHolist · [Easy Florida Online Divorce](https://pilothub.us/projects/easy-florida-online-divorce)
+**[Miami Arts Charter School](https://miamiartscharter.net/)** — A school publishing platform built with Next.js and Payload CMS. Staff can create and manage pages independently, with Google Calendar integration for school events.
+
+[Ukandu](https://pilothub.us/projects/ukandu) · [Halliday Financial](https://pilothub.us/projects/halliday-financial) · Olsen Ziegler Realty · DentalHolist · [Easy Florida Online Divorce](https://pilothub.us/projects/easy-florida-online-divorce)
 
 [Explore the full portfolio ↗](https://ivanmilicevic.dev/#work)
 
