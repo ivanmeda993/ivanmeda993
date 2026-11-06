@@ -1,0 +1,14 @@
+{
+  "typescript.svg": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
+  "javascript.svg": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
+  "react.svg": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
+  "nextjs.svg": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg",
+  "bun.svg": "https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg",
+  "postgresql.svg": "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg",
+  "openai.png": "https://avatars.githubusercontent.com/u/14957082?s=96&v=4",
+  "lm-studio.svg": "https://lmstudio.ai/assets/marketing/brand/download/logos/lm-studio-icon-color.svg",
+  "hermes-agent.svg": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/favicon.svg",
+  "n8n.svg": "https://guidelines.n8n.design/icon.svg",
+  "LICENSE.devicon.txt": "https://raw.githubusercontent.com/devicons/devicon/master/LICENSE",
+  "LICENSE.hermes-agent.txt": "https://github.com/NousResearch/hermes-agent/blob/main/LICENSE"
+}
