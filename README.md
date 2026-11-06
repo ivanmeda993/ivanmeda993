@@ -35,6 +35,7 @@ Previously: **TradeCore** (EU), **PRODYNA** (EU), and **Self Employed** (EU–US
 
 <p>
 <img src="assets/tech/typescript.svg" alt="TypeScript" width="32" height="32">&nbsp; <img src="assets/tech/javascript.svg" alt="JavaScript" width="32" height="32">&nbsp; <img src="assets/tech/react.svg" alt="React" width="32" height="32">&nbsp; <img src="assets/tech/nextjs.svg" alt="Next.js" width="32" height="32">&nbsp; <img src="assets/tech/bun.svg" alt="Bun" width="32" height="32">&nbsp; <img src="assets/tech/postgresql.svg" alt="PostgreSQL" width="32" height="32">&nbsp; <img src="assets/tech/openai.png" alt="OpenAI" width="32" height="32">&nbsp; <img src="assets/tech/lm-studio.svg" alt="LM Studio" width="32" height="32">&nbsp; <img src="assets/tech/hermes-agent.svg" alt="Hermes Agent" width="32" height="32">&nbsp; <img src="assets/tech/n8n.svg" alt="n8n" width="32" height="32">
+<img src="assets/tech/expo-services.png" alt="Expo Services (EAS)" width="32" height="32">&nbsp; <img src="assets/tech/app-store-connect.png" alt="App Store Connect" width="32" height="32">&nbsp; <img src="assets/tech/google-play-console.svg" alt="Google Play Console" width="32" height="32">
 </p>
 
 | Area | Tools |
@@ -44,7 +45,7 @@ Previously: **TradeCore** (EU), **PRODYNA** (EU), and **Self Employed** (EU–US
 | **Backend & content** | Node.js · Express · Bun · Elysia · Hono · Better Auth · Payload CMS · Sanity |
 | **Data & storage** | PostgreSQL · MongoDB · Neon · Supabase · Convex · PowerSync · Drizzle · Prisma · Amazon S3 · Vercel Blob |
 | **AI & agents** | OpenAI · AI SDK · AI Gateway · Pinecone · eve · LM Studio · Hermes Agent · n8n |
-| **Delivery & infrastructure** | Vercel · Coolify · Turborepo · GitHub Actions · GitLab CI · Azure IoT Hub · Resend · Sentry · Vitest |
+| **Delivery & infrastructure** | Vercel · Coolify · Expo Services (EAS) · App Store Connect · Google Play Console · Turborepo · GitHub Actions · GitLab CI · Azure IoT Hub · Resend · Sentry · Vitest |
 
 ### Connect
 

@@ -10,5 +10,8 @@
   "hermes-agent.svg": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/favicon.svg",
   "n8n.svg": "https://guidelines.n8n.design/icon.svg",
   "LICENSE.devicon.txt": "https://raw.githubusercontent.com/devicons/devicon/master/LICENSE",
-  "LICENSE.hermes-agent.txt": "https://github.com/NousResearch/hermes-agent/blob/main/LICENSE"
+  "LICENSE.hermes-agent.txt": "https://github.com/NousResearch/hermes-agent/blob/main/LICENSE",
+  "expo-services.png": "https://expo.dev/static/images/services/icons/expo-logo-icon.png",
+  "app-store-connect.png": "https://developer.apple.com/assets/elements/icons/app-store-connect/app-store-connect-96x96_2x.png",
+  "google-play-console.svg": "https://www.gstatic.com/marketing-cms/assets/images/85/d7/4ef9137d47d593a8c8bf70f31bb5/64px-icon.svg"
 }
